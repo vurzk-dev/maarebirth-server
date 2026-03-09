@@ -1,1 +1,1 @@
-0.00.02.1
+version:0.00.02.1,api:https://maarebirth.wuaze.com,git:https://raw.githubusercontent.com/vurzk-dev/maarebirth-server/refs/heads/main/version.txt,maintenance:false
